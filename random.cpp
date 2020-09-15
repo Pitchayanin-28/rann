@@ -5,7 +5,7 @@ int main()
 {
     int number, num, x = 1;
        srand(time(NULL));
-        num1 = rand() % 20;
+        number = rand() % 20;
          cout << "-------------------------------------------\n";
         do
         {
